@@ -13,7 +13,7 @@ public:
     string longestPalindrome(string s) {
             string s1 ="";
             for(int i=0;i<s.size();i++){
-                for(int j=0;j<s.size();j++){
+                for(int j=i;j<s.size();j++){
                    bool res = checkPalindrome(s,i,j);
                     if(res == true){
                         if((j-i)+1>maxi){
@@ -24,6 +24,5 @@ public:
                 }
             }
             return s1;
-
     }
 };
