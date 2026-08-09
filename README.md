@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
