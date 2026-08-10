@@ -19,12 +19,12 @@ public:
             while(!q.empty()){
                 int size = q.size();
                 int first =0,last =0;
-                int min_ind = q.front().second;
+               // int min_ind = q.front().second;
                 for(int i=0;i<size;i++){
                 auto p = q.front();
                 q.pop();
                 TreeNode* node = p.first;
-                long long index = p.second - min_ind;
+                long long index = p.second;
                 if(i==0) first = index;
                 if(i==size-1) last = index;
                 if(node->left) q.push({node->left,2*index+1});
