@@ -19,7 +19,7 @@ public:
             while(!q.empty()){
                 int size = q.size();
                 int first =0,last =0;
-                long long min_ind = q.front().second;
+                int min_ind = q.front().second;
                 for(int i=0;i<size;i++){
                 auto p = q.front();
                 q.pop();
