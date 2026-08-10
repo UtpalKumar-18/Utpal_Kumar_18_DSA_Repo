@@ -66,16 +66,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
