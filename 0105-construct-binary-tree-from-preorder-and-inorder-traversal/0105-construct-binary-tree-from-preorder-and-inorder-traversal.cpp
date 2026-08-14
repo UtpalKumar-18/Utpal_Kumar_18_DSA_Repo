@@ -27,7 +27,7 @@ public:
         if(preStart>preEnd || inStart>inEnd)  return NULL;
 
         TreeNode* root = new TreeNode(preorder[preStart]);
-        int inRoot = inMap[root->val];
+        int inRoot = inMap[preorder[preStart]];
         int numsLeft = inRoot - inStart;
 
         root->left = BuildTree(preorder,preStart+1,preStart+numsLeft,inorder,inStart,inRoot-1,inMap);
