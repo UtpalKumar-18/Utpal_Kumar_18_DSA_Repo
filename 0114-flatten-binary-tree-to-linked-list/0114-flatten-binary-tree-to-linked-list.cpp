@@ -9,22 +9,41 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// class Solution {
+// public:
+//      TreeNode* prev = nullptr;
+//     void flatten(TreeNode* root) {
+            
+//             if(root == nullptr) return;
+
+//             flatten(root->right);
+//             flatten(root->left);
+
+//             root->right = prev;
+//             root->left = nullptr;
+//             prev = root;
+
+
+
+
+//     }
+// };
+
 class Solution {
 public:
-     TreeNode* prev = nullptr;
     void flatten(TreeNode* root) {
-            
-            if(root == nullptr) return;
+        while(root!=nullptr){
 
-            flatten(root->right);
-            flatten(root->left);
-
-            root->right = prev;
-            root->left = nullptr;
-            prev = root;
-
-
-
-
+            if(root->left != nullptr){
+                    TreeNode* prev = root->left;
+                    while(prev->right){
+                        prev = prev->right;
+                    }
+                    prev->right = root->right;
+                    root->right = root->left;
+                    root->left = nullptr;
+            }
+            root = root->right;
+        }
     }
 };
