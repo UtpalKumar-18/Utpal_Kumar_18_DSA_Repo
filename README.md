@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
