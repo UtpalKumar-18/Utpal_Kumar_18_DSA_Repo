@@ -8,7 +8,7 @@ public:
 
        }
 
-       for(int i=1;i<100;i++){
+       for(int i=1;i<=100;i++){
            if(st.find(k*i) == st.end())  return k*i;
        }
        return nums.size()+1;
