@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
