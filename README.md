@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3731-find-missing-elements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0075-sort-colors) |
+| [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
