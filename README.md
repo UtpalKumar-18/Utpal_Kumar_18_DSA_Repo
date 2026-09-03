@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
 ## Manacher
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
