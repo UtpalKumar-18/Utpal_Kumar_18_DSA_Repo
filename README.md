@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 ## Design
 |  |
 | ------- |
@@ -224,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
