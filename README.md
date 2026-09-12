@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
+| [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -228,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
