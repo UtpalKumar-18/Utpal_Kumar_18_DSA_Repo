@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2643-row-with-maximum-ones](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0075-sort-colors) |
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3731-find-missing-elements](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3903-smallest-stable-index-i](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
