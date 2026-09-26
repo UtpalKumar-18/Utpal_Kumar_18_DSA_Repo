@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2643-row-with-maximum-ones](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2643-row-with-maximum-ones) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
