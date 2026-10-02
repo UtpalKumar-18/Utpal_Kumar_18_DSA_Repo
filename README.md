@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0424-longest-repeating-character-replacement) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1971-find-if-path-exists-in-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
