@@ -3,8 +3,8 @@ public:
     vector<int> maxDepthAfterSplit(string seq) {
         int n = seq.size();
          vector<int> ans(n,0);
-         string A = "";
-         string B = "";
+        //  string A = "";
+        //  string B = "";
 
         int depth =0;
         stack<char> s;
@@ -12,13 +12,13 @@ public:
             if(seq[i] == '('){
                 depth++;
                 if(depth%2 != 0){
-                    A += '(';
+                    // A += '(';
                     ans[i] = 0;
                     s.push('A');
                     
                 }
                 else{
-                    B += '(';
+                    // B += '(';
                     ans[i] = 1;
                     s.push('B');
                 }
@@ -27,12 +27,12 @@ public:
                 char ch = s.top();
                 s.pop();
                 if(ch == 'A'){
-                     A += ')';
+                    //  A += ')';
                     ans[i] = 0;
                     depth--;
                 }
                 else if(ch == 'B'){
-                    B += ')';
+                    // B += ')';
                     ans[i] = 1;
                     depth--;
                 }
