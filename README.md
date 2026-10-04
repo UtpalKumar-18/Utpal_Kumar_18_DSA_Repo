@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
 ## Manacher
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0733-flood-fill) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1901-find-a-peak-element-ii) |
