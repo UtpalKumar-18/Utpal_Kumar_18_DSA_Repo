@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
