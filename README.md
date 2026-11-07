@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0075-sort-colors) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3731-find-missing-elements](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3731-find-missing-elements) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0075-sort-colors) |
 | [0647-palindromic-substrings](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1552-magnetic-force-between-two-balls) |
