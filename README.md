@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3731-find-missing-elements) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3364-minimum-positive-sum-subarray](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
