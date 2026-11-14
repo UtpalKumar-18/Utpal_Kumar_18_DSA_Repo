@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0542-01-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0877-stone-game) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/UtpalKumar-18/Utpal_Kumar_18_DSA_Repo/tree/master/1248-count-number-of-nice-subarrays) |
