@@ -49,12 +49,12 @@ public:
         }
         int maxsum = sum;
         int start = 0;
-        int end = k;
-        while(end<nums.size()){
+        int end = k-1;
+        while(end<nums.size()-1){
             sum -= nums[start];
             start++;
 
-            sum += nums[end];
+            sum += nums[end+1];
             end++;
 
             maxsum = max(sum,maxsum);
